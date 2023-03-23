@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cna"]
+	path = cna
+	url = https://github.com/cran/cna
+	shallow = true
+	registered = true
+[submodule "cnaOpt"]
+	path = cnaOpt
+	url = https://github.com/cran/cnaOpt
+	shallow = true
+	registered = true
