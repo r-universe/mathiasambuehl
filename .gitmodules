@@ -7,7 +7,7 @@
 	url = https://github.com/cran/causalHyperGraph
 [submodule "cna"]
 	path = cna
-	url = https://github.com/cran/cna
+	url = https://github.com/mathiasambuehl/cna
 [submodule "cnaOpt"]
 	path = cnaOpt
 	url = https://github.com/cran/cnaOpt
